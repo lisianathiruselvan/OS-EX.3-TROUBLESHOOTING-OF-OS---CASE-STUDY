@@ -93,4 +93,3 @@ If audio is not working on some specific apps, you go to the Advanced tab and un
 RESULT:
 Troubleshooting of OS has been done successfuly.
 
-RESULT:
